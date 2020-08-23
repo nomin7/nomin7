@@ -1,6 +1,5 @@
-### Hola :wave: , Soy Benjamín Fernández.
-
-##### Ingeniero en Sistemas Informáticos de la [Universidad de Oriente](https://www.univo.edu.sv/) :blue_book:
+<h3>Hola :wave: , Soy Benjamín Fernández.</h3>
+<h4> Ingeniero en Sistemas Informáticos de la <a href="https://www.univo.edu.sv/">Universidad de Oriente</a> :blue_book: </h4>
 
 #### Sobre mí :raised_hand:
 >Soy desarrollador y diseñador web, me apasiona el crecimiento tecnológico, desde pequeño he interactuado con la web desde el front-end hasta el back-end. 
@@ -11,7 +10,12 @@
 #### Skills :zap:
 ```php
 $codigo = [ HTML , CSS , SQL, Php, JavaScript, MongoDB, C Básico, Python Básico];
-$herramientas = [ Laravel , VueJS , MySQL, Quasar];
+$herramientas = [ Laravel , VueJS , MySQL];
+```
+
+#### Estudiando actualmente :notebook:
+```php
+$herramientas = [ Quasar , Flutter , Nuxt];
 ```
 #### Puedes encontrarme en :envelope:
 - linkedin [linkedin.com/in/nomin7/](https://www.linkedin.com/in/nomin7/) :inbox_tray:
