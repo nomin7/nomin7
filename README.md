@@ -15,7 +15,7 @@ $herramientas = [ Laravel , VueJS , MySQL];
 
 #### Estudiando actualmente :notebook:
 ```php
-$herramientas = [ Quasar , Flutter , Nuxt];
+$herramientas = [ Ionic Vue , Quasar , Nuxt];
 ```
 #### Puedes encontrarme en :envelope:
 - linkedin [linkedin.com/in/nomin7/](https://www.linkedin.com/in/nomin7/) :inbox_tray:
