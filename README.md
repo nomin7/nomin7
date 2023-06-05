@@ -9,8 +9,8 @@
 
 #### Skills :zap:
 ```php
-$codigo = [ HTML , CSS , SQL, Php, JavaScript, MongoDB, C Básico, Python Básico];
-$herramientas = [ Laravel , VueJS , MySQL];
+$codigo = [ HTML , CSS , SQL, Php, JavaScript, C Básico, Python Básico];
+$herramientas = [ Laravel , VueJS , MySQL, Angular];
 ```
 
 #### Estudiando actualmente :notebook:
