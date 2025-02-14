@@ -19,5 +19,3 @@ $herramientas = [ Ionic Vue , Quasar , Nuxt, ReactJS];
 ```
 #### Puedes encontrarme en :envelope:
 - linkedin [linkedin.com/in/nomin7/](https://www.linkedin.com/in/nomin7/) :inbox_tray:
-- Mi Web [benfernandez.me](http://benfernandez.me/) :link:
-- Instagram [instagram.com/nomin7g](https://www.instagram.com/nomin7g/) :camera:
